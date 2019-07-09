@@ -10,6 +10,12 @@
   "engines": {
     "node": "10.15.3"
   },
+<<<<<<< HEAD
+=======
+  "engines" : {
+    "node":"10.15.3"
+  },
+>>>>>>> 743e99e9cf526fce170e8775f6795ae4365c9a6c
   "author": "",
   "license": "ISC",
   "dependencies": {
